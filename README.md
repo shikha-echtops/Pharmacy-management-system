@@ -36,7 +36,8 @@ composer install
 
 4. Install npm packages with 
 ```
-npm install; npm run dev
+npm install
+npm run dev
 ```
 5. Create your database 
 
